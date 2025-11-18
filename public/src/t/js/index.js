@@ -86,7 +86,7 @@ function ShowToast() {
     });
       
     $('#Cron').click(function() {
-        OpenUrl('https://cron.quangapi.com/');
+        OpenUrl('https://freeacclq.page.gd/');
     });
 	  
     $('#DICHVU').click(function() {
@@ -421,3 +421,4 @@ function __GetInfo() {
     }
     setTimeout(geoinfo, 5000);
 }
+
